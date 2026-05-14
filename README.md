@@ -1,25 +1,135 @@
-## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently working on<br>🔐 Building secure APIs using Node.js as part of the Build Fellowship by Open Avenues, helping employees safely share passwords with strong security compliance.<br><br>🧠 Creating an AI-driven MongoDB Tool Server integrated with Google Gemini via the Model Context Protocol (MCP), enabling natural language database operations.<br><br>🔄 Developing a bi-directional SQL↔Natural Language Translator using GPT-4 and React, enabling non-technical users to query and understand SQL easily.<br><br>🌐 Optimizing a Next.js + PostgreSQL full-stack application to reduce latency by 30% and improve deployment pipelines using Docker and GitHub Actions.<br><br>🧪 Conducting real-world experiments with NLP-driven chatbots, forecasting models, and AI-based resume screeners to solve domain-specific problems.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>🤖 LLM-based tools (e.g., AI copilots, agent frameworks, natural language databases).<br><br>🧬 Applied ML projects in healthcare, finance, and HR—especially predictive modeling and recommendation systems.<br><br>🛠️ Open-source contributions around DevOps, backend APIs, or full-stack tools.<br><br>🧪 Hackathons and innovation sprints focused on real-world impact with AI/ML.<br><br>🗂️ Projects exploring data storytelling, dashboarding, or data-driven product design.<br><br>🧩 Integrating GenAI APIs (like Gemini or OpenAI) with custom backend logic and third-party services.<br><br>🤝 I’m looking for help with<br>🏗️ Designing distributed and scalable systems, especially for microservices and event-driven architecture.<br><br>⚙️ Building ML Ops pipelines with tools like MLflow, Airflow, and KubeFlow.<br><br>🌩️ Deepening expertise in cloud-native tools like Kubernetes, Terraform, and VPC networking.<br><br>🧠 Advanced AI topics: Diffusion models, Reinforcement Learning with Human Feedback (RLHF), and model compression techniques.<br><br>📈 Learning data engineering at scale—big data pipelines with Apache Spark or Flink.<br><br>🔄 Contributing to developer communities or personal branding through blog posts or tech talks.<br><br>🌱 I’m currently learning<br>🧱 System Design fundamentals, including CAP theorem, database sharding, and caching strategies.<br><br>☁️ Cloud architecture best practices on AWS and GCP—like VPC design, IAM, and scalable storage.<br><br>🎛️ Designing AI-powered tool-call architectures like OpenAI Function Calling and Google Gemini's Tool Use framework.<br><br>🧮 Mathematics for ML: Linear algebra, optimization, probability theory, and Bayesian inference.<br><br>🧠 Exploring Transformers, LoRA fine-tuning, and LLM agent frameworks like LangGraph and CrewAI.<br><br>💬 Advanced NLP techniques: RAG, semantic search, vector stores, and entity recognition.<br><br>💬 Ask me about<br>🧠 Building ML pipelines using Scikit-learn, XGBoost, LightGBM, and deployment with Flask or FastAPI.<br><br>🖥️ Full-stack development with Next.js, Node.js, FastAPI, PostgreSQL, Docker, and AWS.<br><br>🧩 NLP & LLMs: Chatbot design, text classification, vector search, and OpenAI/Gemini integration.<br><br>🚀 How to land software & ML internships and make the most out of them.<br><br>🧪 How I designed AI-powered systems that supported resume screening, SQL translation, and real-time database queries.<br><br>🎓 Experiences in working with cross-functional teams, Agile development, and technical leadership in hackathons.<br><br>⚡ Fun fact<br>💬 I created a chatbot-based MongoDB server where users can interact with databases via natural language, using Google's Gemini AI and Node.js—bridging AI reasoning and database tooling in real-time.<br><br>🧠 Boosted prediction accuracy by 9% in production ML models using fine-tuned hyperparameter search (XGBoost, LightGBM).<br><br>🧑‍🏫 I’ve led technical clubs and coding workshops engaging 200+ students, and mentored juniors in building scalable AI systems.<br><br>🧪 I once reduced API latency by 40% just by optimizing queries and indexing—performance tuning really is magical!<br><br>🌍 I love translating research into practical, usable products that solve real-world problems—AI isn’t just theory for me.
+# Hi, I'm Sahilsingh Khalsa 👋
 
+Software Development Engineer with experience building scalable backend services, distributed workflows, full-stack applications, and production-style AI systems using **Python, TypeScript, C++, AWS, SQL/NoSQL databases, and CI/CD**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sahil-Khalsa &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sahil-Khalsa &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Khalsa &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sahil-Khalsa &theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sahil-Khalsa &limit=5&theme=dark&combine_all_yearly_contributions=true)
+I build **REST APIs, microservices, AI workflows, RAG pipelines, LangGraph agents, monitoring systems, debugging workflows, and reliable software systems**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sahil-Khalsa &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Contact
+
+- Phone: (872)-279-5791
+- Email: [sahilkhalsa0516@outlook.com](mailto:sahilkhalsa0516@outlook.com)
+- LinkedIn: [linkedin.com/in/sahilsingh-khalsa](https://linkedin.com/in/sahilsingh-khalsa)
+- GitHub: [github.com/Sahil-Khalsa](https://github.com/Sahil-Khalsa)
+
+---
+
+## 🎓 Education
+
+### Illinois Institute of Technology  
+**Master of Science, Computer Science**  
+**Aug 2024 – May 2026**  
+GPA: **3.7 / 4.0**
+
+**Coursework:** Data Structures & Algorithms, Operating Systems, Computer Networks, Database Organization, Healthcare AI
+
+---
+
+### Vidush Somany Institute of Technology and Research  
+**Bachelor of Science, Computer Engineering**  
+**Aug 2020 – May 2024**  
+GPA: **4.0 / 4.0**
+
+**Coursework:** Information Security, Software Engineering, Big Data Technologies, Probability & Statistics, Database Systems
+
+---
+
+## 💼 Experience
+
+### Software Development Engineer — Find Me LLC  
+**Jan 2026 – May 2026**
+
+- Scaled **FyndMe.net** to support **9 portfolio types** and **4 template tiers** by architecting a **3-service microservices platform** across **Next.js, Node.js/Express, and FastAPI**.
+- Collaborated with product and engineering teams to ship **11+ public and protected workflows** by translating portfolio requirements into **React/Next.js pages, API routing, and JWT-secured client-to-backend communication**.
+- Unified **9 portfolio schemas** into a single MongoDB model using **Mongoose discriminators**, with per-type validation, visibility controls, and soft-delete support.
+- Developed a containerized AI-powered FastAPI image-processing service using **U²Net, MediaPipe, and OpenCV**.
+
+---
+
+### Backend Engineer — Gabriel AI  
+**Jul 2025 – Dec 2025**
+
+- Owned campaign workflow reliability by designing **Firebase state tracking** for CSV imports, delivery updates, analytics, and **4-stage execution** across AI voice campaigns.
+- Engineered an AI voice-cloning pipeline that generated **1,000+ personalized messages per campaign in under 10 minutes**, saving **33+ hours of manual recording**, by integrating **ElevenLabs, AWS S3, and Drop Cowboy**.
+- Developed **10+ protected campaign, billing, analytics, and voice workflows** for a **0-to-1 SaaS platform** by integrating **React 18, TypeScript, and Django REST**.
+- Collaborated across teams to secure **1M+ generated audio assets** by implementing **Stripe access checks, HTTPOnly JWT auth, and CloudWatch-backed debugging**.
+
+---
+
+### Software Engineer — The Special Character  
+**Dec 2023 – May 2024**
+
+- Led backend development for advertiser-facing workflows using **TypeScript/Node.js**, building **7+ REST APIs** that enabled **4 business-critical product flows** across the platform.
+- Reduced noisy production failures by **32%** across critical endpoints by hardening request validation, standardizing API contracts, and adding defensive error handling to backend services.
+- Improved deployment reliability by embedding automated tests into the **CI/CD pipeline**, enabling **zero-downtime releases across 6 production deployments** and increasing confidence in rollout stability.
+
+---
+
+## 🚀 Projects
+
+### SIGMA — Multi-Agent AI Trading System  
+**Mar 2026 – Apr 2026**
+
+- Engineered a production-style LLM agent workflow with **6 tools** and a **6-call budget cap**, by designing a **LangGraph decision graph** that kept LLM reasoning structured, auditable, and bounded at **~$0.02 per trade decision**.
+- Improved AI decision safety and traceability by pairing a **Claude strategy agent** with an **8-rule deterministic risk validator** that separated model reasoning from non-negotiable compliance checks for every trade.
+- Built a real-time backend streaming agent decisions with **sub-100ms latency**, using a **FastAPI + PostgreSQL + WebSocket pipeline** with async broadcasting and persistent storage.
+
+---
+
+### Ace Prep — Full-Stack Interview Simulator  
+**Apr 2025 – Jun 2025**
+
+- Scaled a **React + Node.js AI-powered SaaS mock-interview platform** to **200+ users**, improving workflow reliability across onboarding, multi-step interview sessions, and transcript access.
+- Reduced transcript retrieval latency by **35% / 1.2 seconds** by redesigning the **PostgreSQL schema, indexes, and query patterns** to optimize high-read workloads.
+- Increased release velocity by **20%** by implementing test-backed **CI/CD**, preventing regressions in session and transcript flows.
+
+---
+
+# 💻 Technical Skills
+
+## Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Backend & Distributed Systems
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B00?style=for-the-badge&logo=microgenetics&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![API Design](https://img.shields.io/badge/API_Design-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![System Design](https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=thealgorithms&logoColor=white)
+
+## Cloud, Data & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+## Reliability & Operations
+
+![Debugging](https://img.shields.io/badge/Debugging-02569B?style=for-the-badge&logo=bugatti&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-FF6B00?style=for-the-badge&logo=grafana&logoColor=white)
+![Logging](https://img.shields.io/badge/Logging-000000?style=for-the-badge&logo=logstash&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-6DB33F?style=for-the-badge&logo=jest&logoColor=white)
+![Code Reviews](https://img.shields.io/badge/Code_Reviews-181717?style=for-the-badge&logo=github&logoColor=white)
+![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white)
+
+## AI & Development Tools
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge&logo=semanticweb&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-4B0082?style=for-the-badge&logo=probot&logoColor=white)
