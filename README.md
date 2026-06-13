@@ -258,7 +258,7 @@ Redesigned PostgreSQL schemas, indexes, and query patterns for high read workloa
 
 <div align="center">
 
-<a href="https://github.com/Sahil-Khalsa?tab=repositories">
+<a href="https://github.com/Sahil-Khalsa/repositories">
   <img src="https://img.shields.io/badge/Explore%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
